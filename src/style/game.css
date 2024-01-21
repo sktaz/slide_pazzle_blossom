@@ -1,0 +1,49 @@
+/* 
+/slide_puzzle/src/style/game.css
+*/
+
+h1,
+h2,
+h3 {
+    margin-bottom: 10px;
+}
+
+.content {
+    text-align: center;
+    margin: 30px;
+
+}
+
+.content__head {
+    margin-bottom: 20px;
+    font-size: 2.3em;
+}
+
+.content__main {
+    display: flex;
+    font-size: 2em;
+}
+
+.content__block {
+    margin: 0 auto;
+}
+
+.content__frame {
+    width: 410px;
+    height: 410px;
+    background-color: #010a38;
+    border: 10px solid #4d4d4d;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+
+.puzzle_image {
+    width: 130px;
+    height: 130px;
+    border: 1px solid #010a38;
+}
+
+.content__footer {
+    font-size: 1.2em;
+}
